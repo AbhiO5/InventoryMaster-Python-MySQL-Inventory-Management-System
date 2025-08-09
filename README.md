@@ -19,3 +19,5 @@ It allows you to add, update, delete, and search inventory items** in a user-fri
 - **Tkinter** – GUI framework
 - **MySQL** – Relational database
 - **mysql-connector-python** – MySQL connector for Python
+
+<img width="1783" height="1239" alt="image" src="https://github.com/user-attachments/assets/8fb45abb-97f2-4421-ab70-808bd7193dc1" />
