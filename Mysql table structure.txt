@@ -1,0 +1,6 @@
+The mysql table had the following parameters and structer.
+
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(100) NOT NULL
+quantity INT NOT NULL
+price DECIMAL(10,2) NOT NULL
